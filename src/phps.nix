@@ -44,6 +44,8 @@
       "xmlwriter"
       "zip"
       "zlib"
+      "intl"
+      "ldap"
     ];
   in [
     {
